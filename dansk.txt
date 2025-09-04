@@ -2,4 +2,4 @@ d dane
 a actor
 n name
 s silver
-k knew
+k kick
