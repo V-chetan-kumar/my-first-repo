@@ -1,0 +1,5 @@
+d dane 
+a actor
+n news
+s silver
+k knew
