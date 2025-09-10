@@ -13,4 +13,4 @@ Change for Assignment 1
 * The 100
 * Mindhunter
 
-**(activity_page)[MyActivity.md]**
+**[activity_page](MyActivity.md)**
