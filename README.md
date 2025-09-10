@@ -32,6 +32,7 @@ There is always a desire for anyone to meet your favorite people, idols or just 
 ### Favorite Quotes 
 
 > You have to dream before your dreams can come true
-*-Dr A.P.J Abdul Kalam*
+*-Dr A.P.J Abdul Kalam* <br>
+
 > Man needs his difficulties because they are necessary to enjoy success
 *-Dr A.P.J Abdul Kalam*
