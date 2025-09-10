@@ -36,3 +36,15 @@ There is always a desire for anyone to meet your favorite people, idols or just 
 
 > Man needs his difficulties because they are necessary to enjoy success
 *-Dr A.P.J Abdul Kalam*
+
+***
+
+### Typescript function composition
+
+The following program combines functions from left to right to give out a new function
+
+```
+const compose = (...fns: Func[]) => {
+	fns.reduce((f, g) => (...args: any[]) => f(...castArray(g(...args))));
+}
+```
