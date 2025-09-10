@@ -28,3 +28,10 @@ There is always a desire for anyone to meet your favorite people, idols or just 
 | Christopher Nolan | World's best director especially the sci-fi ones | Jul 30, 1970 | N/A |
 
 ***
+
+### Favorite Quotes 
+
+> You have to dream before your dreams can come true
+*-Dr A.P.J Abdul Kalam*
+> Man needs his difficulties because they are necessary to enjoy success
+*-Dr A.P.J Abdul Kalam*
